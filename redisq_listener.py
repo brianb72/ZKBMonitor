@@ -260,7 +260,6 @@ def startup(mode):
     else:
         print('Starting in normal mode...\n\n')
         redisq_listener = ZKBRedisQ()
-        redisq_listener.create_zmq_server()
         redisq_listener.main_loop()
 
     print('...exiting.')
