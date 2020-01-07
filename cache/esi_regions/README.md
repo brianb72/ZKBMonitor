@@ -1,0 +1,1 @@
+Cache for zkillboard region JSON

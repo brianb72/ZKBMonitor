@@ -1,0 +1,1 @@
+Cache for zkillboard RedisQ killmails

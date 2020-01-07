@@ -1,0 +1,6 @@
+Current version of the 'Eve Static Data Dump' must be placed in 'data' directory
+
+Download and uncompress this file to 'data'
+    https://www.fuzzwork.co.uk/dump/sqlite-latest.sqlite.bz2
+
+
